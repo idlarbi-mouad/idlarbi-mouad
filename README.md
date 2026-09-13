@@ -19,8 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idlarbi-mouad&show_icons=true&theme=tokyonight)
-
+![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idlarbi-mouad&show_icons=true&theme=tokyonight&no-cache=true)
 ---
 
 ### 📬 Connect with Me
