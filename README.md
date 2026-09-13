@@ -18,10 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idlarbi-mouad&show_icons=true&theme=tokyonight&no-cache=true)
----
-
 ### 📬 Connect with Me
 * 💼 **LinkedIn:** [Mouad Idlarbi](https://www.linkedin.com/in/mouad-idlarbi-ab1b05389/?locale=fr-FR)
 * 🎯 **TryHackMe:** [MouadIdlarbi](https://tryhackme.com/p/MouadIdlarbi)
+* 🖂 **Gmail:**(mouadidlarbi@gmail.com)
