@@ -21,4 +21,4 @@
 ### 📬 Connect with Me
 * 💼 **LinkedIn:** [Mouad Idlarbi](https://www.linkedin.com/in/mouad-idlarbi-ab1b05389/?locale=fr-FR)
 * 🎯 **TryHackMe:** [MouadIdlarbi](https://tryhackme.com/p/MouadIdlarbi)
-* 🖂 **Gmail:**mouadidlarbi@gmail.com
+* ✉️ **Email:** [mouadidlarbi@gmail.com](mailto:mouadidlarbi@gmail.com)
